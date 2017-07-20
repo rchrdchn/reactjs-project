@@ -3,6 +3,7 @@ class App extends React.Component {
     return (
        <div>
          <h1>Hello JSX and the World!</h1>
+         <p>Writing some React</p>
        </div>
     );
   }
